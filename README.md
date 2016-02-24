@@ -24,3 +24,4 @@ Then copy they to your project in jin. See [ffmpeg-example jin dir](https://gith
 * [Application.mk](http://developer.android.com/ndk/guides/application_mk.html)
 * Android C++高级变成------使用NDK
 * [bibili ijkplayer](https://github.com/Bilibili/ijkplayer): 使用了通过其编译的libijkffmepg.so文件
+* [how to write a video player](http://dranger.com/ffmpeg/ffmpeg.html)
