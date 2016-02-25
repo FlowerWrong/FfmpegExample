@@ -29,3 +29,4 @@ Then copy they to your project in jin. See [ffmpeg-example jin dir](https://gith
 * [ffmpeg-all中文翻译](https://www.gitbook.com/book/xdsnet/other-doc-cn-ffmpeg/details)
 * [ffmpeg doc](https://www.ffmpeg.org/documentation.html)
 * [FFMPEG processing](https://leanpub.com/ffmpeg)
+* [雷霄骅 csdn blog](http://my.csdn.net/leixiaohua1020)
